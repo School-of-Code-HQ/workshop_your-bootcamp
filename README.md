@@ -1,5 +1,3 @@
-# Make your own bootcamp!
+# Make the application page for your own bootcamp!
 
-This will be done during the class with your team.
-
-### Use Figma!
+Use the work you did over the past days including your user personas and user stories to bring your wireframes to life and start to transform your design into reality.
